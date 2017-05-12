@@ -52,7 +52,7 @@
     git remote add origin https://github.com/username/repositoryname.git
     
 ### STEP 9 : PUSH
-    git push -u origin master
+    git push -u origin master ( if pushing first file )
     git push
   
 
